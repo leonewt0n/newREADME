@@ -1,24 +1,29 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# Hi, I'm Leo Newton 👋
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+I'm a Computer Science student at Ball State University with additional study in Cybersecurity at Capella University. I build web apps and experiment with collaborative tools, data, and systems.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+[![GitHub followers](https://img.shields.io/github/followers/leonewt0n?label=Followers&style=flat-square)](https://github.com/leonewt0n)
+[![Public repositories](https://img.shields.io/badge/Public%20repos-251-blue?style=flat-square)](https://github.com/leonewt0n?tab=repositories)
+
+- 📍 Tacoma, Washington
+- 🌐 [leonewton.com](https://leonewton.com)
+- 💻 [github.com/leonewt0n](https://github.com/leonewt0n)
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+
+- ♠️ [PokerCheck](https://github.com/leonewt0n/MLH_PokerCheck) — A multiplayer game that combines poker and checkers, built with React, TypeScript, Vite, and TigerDB for MLH Hacktoberfest 2026.
+- 🤝 [Squad Finder](https://github.com/leonewt0n/MLH_TeamMember_Finder) — A collaborative team-finding board using Yjs, IndexedDB, and encrypted updates over MQTT.
+- 📄 [CV Skills Inventory](https://github.com/leonewt0n/MLH_github-copilot_app) — A React and Vite app for organizing skills and courses, with downloadable data and PDF CV export.
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+
+- 🧰 Languages and tools: TypeScript, JavaScript, Python, Go, React, Vite, Jupyter, and Nix
+- 🔭 Interests: full-stack development, data analytics, cybersecurity, and Linux systems
+
+## Connect
+
+- [GitHub](https://github.com/leonewt0n)
+- [Website](https://leonewton.com)
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
